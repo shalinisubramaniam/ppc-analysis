@@ -1,7 +1,7 @@
 # ppc-analysis
 This repository contains code and data for analyzing the performance of a paid search campaign for a shopping mall. Refer to the README for additional information and troubleshooting tips.
 
-PPC Analysis: Shopping Mall Paid Search Campaign 🛍️💻
+**PPC Analysis: Shopping Mall Paid Search Campaign 🛍️💻**
 Welcome to the PPC Analysis repository, focusing on analyzing the performance of a paid search campaign for a shopping mall. This project provides insightful data analysis and visualization to optimize marketing strategies and drive better results.
 
 Dataset 📊
