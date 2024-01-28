@@ -26,5 +26,6 @@ pandas: For data manipulation and analysis.
 matplotlib and seaborn: For creating static visualizations and plots.
 plotly: For interactive and dynamic visualizations.
 dash (optional): For building interactive dashboards, if applicable.
+
 **Contributions 🤝**
 Contributions to improve the analysis code, add new features, or fix issues are welcome! Feel free to open an issue or submit a pull request to collaborate on this project.
