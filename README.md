@@ -17,7 +17,7 @@ cleaned_dataset.csv: Cleaned version of the original dataset, ready for explorat
 Clone the Repository: Use the following command to clone the repository to your local machine:
 https://github.com/shalinisubramaniam/ppc-analysis.git
 (either you can clone the repository or download the code)
-Explore the Notebook: Open the Jupyter notebook PPC_Analysis.ipynb in a Python environment (e.g., Jupyter Notebook, Google Colab).
+Explore the Notebook: Open the Jupyter notebook "PPC_Analysis_ZROCK_internship.ipynb" in a Python environment (e.g., Jupyter Notebook, Google Colab).
 
 Run the Analysis: Follow the instructions and code within the notebook to execute the analysis, explore the data, and visualize the results.
 
