@@ -7,7 +7,7 @@ Welcome to the PPC Analysis repository, focusing on analyzing the performance of
 **Dataset 📊**
 The dataset used for this analysis, "Shopping Mall Paid Search Campaign Analysis," is downloaded from Kaggle. It contains comprehensive information about the paid search campaign, including various metrics such as ad group performance, impressions, clicks, conversions, costs, revenues, and profitability.
 
-You can find the dataset [here](https://www.kaggle.com/your_username/shopping-mall-paid-search-campaign).
+You can find the dataset [here](https://www.kaggle.com/datasets/marceaxl82/shopping-mall-paid-search-campaign-dataset).
 
 **Files 📁**
 PPC_Analysis.ipynb: Jupyter notebook containing Python code for PPC analysis, including data preprocessing, exploratory data analysis (EDA), and visualization.
